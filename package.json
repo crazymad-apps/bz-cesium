@@ -1,0 +1,12 @@
+{
+  "name": "bz-cesium",
+  "version": "0.0.1",
+  "main": "index.js",
+  "private": true,
+  "repository": "git@github.com:crazymad-apps/bz-cesium.git",
+  "author": "'crazymad' <'2116913961@qq.com'>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}
